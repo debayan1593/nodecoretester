@@ -1,0 +1,4 @@
+>>to enable mongod authentication run mongod with <<--auth>> flag
+>>db: admin username:useradmin pwd:252729
+>>db:kycrest username:debayan pwd:252729
+
